@@ -1,6 +1,7 @@
 package com.example.demo;
 
 // https://mvnrepository.com/artifact/com.warrenstrange/googleauth/1.4.0
+// https://webqr.com/index.html
 import com.warrenstrange.googleauth.GoogleAuthenticator;
 import com.warrenstrange.googleauth.GoogleAuthenticatorKey;
 
